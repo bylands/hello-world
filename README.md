@@ -1,2 +1,3 @@
 # hello-world
-This is for the tutorial.
+
+This is my first try with GitHub. I'm going to use this tool for my work at CERN.
