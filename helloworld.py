@@ -15,10 +15,12 @@ joke_evaluation = "Isn't that joke so funny?! %r"
 print joke_evaluation % hilarious
 
 print "old filename: ",
-fn_old = raw_input()
+#fn_old = raw_input()
+fn_old = "old"
 
 print "new filename: ",
-fn_new = raw_input()
+#fn_new = raw_input()
+fn_new = "new"
 
 print "old filename %s and new filename %s" % (fn_old, fn_new)
 
